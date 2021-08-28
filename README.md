@@ -1,5 +1,5 @@
-# python
-Python Codes for cs231n assignments
+# python files
+Python Codes for cs231n assignments.
 
 # notes
 The notes made studying the course.
